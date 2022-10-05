@@ -4,15 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javaman97&label=Profile%20views&color=0e75b6&style=flat" alt="javaman97" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
 - 👨‍💻 All of my projects are available at [https://github.com/javaman97](https://github.com/javaman97)
 
 - 💬 Ask me about **Android,Kotlin and Java**
 
 - 📫 How to reach me **amannishad0512@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LYIc2xMnf1EndOnexW9nkATJ0NyPCA4v/view?usp=sharing](https://drive.google.com/file/d/1LYIc2xMnf1EndOnexW9nkATJ0NyPCA4v/view?usp=sharing)
 
 - ⚡ Fun fact **Love to make people laugh**
 
