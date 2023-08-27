@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **javaman0512@gmail.com**
 
-- ⚡ Fun fact **Love to make people laugh**
+- ⚡ Wanted to start Open Source Contribution as an Android Developer :-
+https://amannishad.hashnode.dev/getting-started-with-open-source-beginner-guide
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
