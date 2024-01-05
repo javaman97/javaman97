@@ -9,7 +9,7 @@
 - 💬 Ask me about **Android,Kotlin and Java**
 
 
-- 📫 How to reach me **javaman0512@gmail.com**
+- 📫 How to reach me **amannishad0512@gmail.com**
 
 - ⚡ Wanted to start Open Source Contribution as an Android Developer :-
 https://amannishad.hashnode.dev/getting-started-with-open-source-beginner-guide
