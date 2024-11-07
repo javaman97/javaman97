@@ -5,10 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javaman97&label=Profile%20views&color=0e75b6&style=flat" alt="javaman97" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/javaman97](https://github.com/javaman97)
-
-- 💬 Ask me about **Android,Kotlin and Java**
-
-
+- 📱 Check out [My Live Apps](https://play.google.com/store/apps/developer?id=IAmAndroid) on **Google Playstore** 👀
+- 💬 Ask me about **Android,Kotlin and Jetpack Compose**
 - 📫 How to reach me **javaman0512@gmail.com**
 
 - ⚡ Wanted to start Open Source Contribution as an Android Developer :-
